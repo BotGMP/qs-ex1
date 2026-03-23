@@ -1,4 +1,4 @@
-import re
+import re  
 
 def validar_password(password):
     if len(password) < 8:
