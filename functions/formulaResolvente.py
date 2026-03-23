@@ -1,4 +1,4 @@
-import math
+import math 
 
 def formulaResolvente(a, b, c):
     if a == 0:
